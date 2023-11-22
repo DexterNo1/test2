@@ -1,0 +1,14 @@
+.Nikita {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+}
+.block__title {
+    color: #22356F;
+    font-family: Larsseit;
+    font-size: 28px;
+}
+.block__text {
+    color: rgba(34, 53, 111, 0.50);
+    font-family: Larsseit;
+    font-size: 16px;
+}
