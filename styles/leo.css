@@ -1,0 +1,50 @@
+
+.quadro-back{
+    width: 100%;
+}
+.quadro-container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.quadro-bigbox{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 390px);
+    grid-template-rows: repeat(2, 300px);
+}
+.box1{
+    background: #22356F;
+    position: relative;
+}
+.box1__line{
+    width: 312px;
+    height: 1px;
+    background-color: white;
+    position: absolute;
+    top: ;
+    left: ;
+}
+.box__point{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: orange;
+    position: absolute;
+    left: ;
+    top: ;
+}
+.box2{
+    background: #0052C1;    
+}
+.box3{
+    background-image: url(/images/jack.jpg);
+}
+.box4{
+    background: #62D0DF;
+}
+.box5{
+    background: #DEE1FF;
+}
+.box6{
+    background: #8F00FF;
+}
